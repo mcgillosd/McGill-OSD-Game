@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+victor
+K 8
+svn:date
+V 27
+2013-01-23T03:21:41.842572Z
+K 7
+svn:log
+V 107
+Adminer MySQL panel
+.htaccess for hiding .svn folders in live directory (/var/www/osdgame)
+Test index page
+
+END

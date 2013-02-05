@@ -1,0 +1,23 @@
+PLAIN
+K 11
+adminer.php
+V 19
+file 2-1.0.r1/83182
+K 9
+index.php
+V 19
+file 3-1.0.r1/83533
+END
+ENDREP
+id: 0.0.r2/98
+type: dir
+pred: 0.0.r1/83843
+count: 2
+text: 2 0 85 85 4852cf4a160cf68a958c1dd423a506bd
+cpath: /
+copyroot: 0 /
+
+0-1.0.r1/83360 delete-file false false /.htaccess
+
+
+98 223

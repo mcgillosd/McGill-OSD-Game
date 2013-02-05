@@ -1,0 +1,30 @@
+id: 0-7.0.r7/0
+type: file
+count: 0
+text: 5 0 51650 155591 18e296f3b5bd240ddba028cb9d11764a 637c2ec9b92e0b36be187491fb54651d3b173476 6-6/_2
+cpath: /adminer.php
+copyroot: 0 /
+
+PLAIN
+K 11
+adminer.php
+V 15
+file 0-7.0.r7/0
+K 9
+index.php
+V 19
+file 3-1.0.r1/83533
+END
+ENDREP
+id: 0.0.r7/268
+type: dir
+pred: 0.0.r6/56
+count: 7
+text: 7 174 81 81 344f97d88bd0fdf42b5f84a046a91c1f
+cpath: /
+copyroot: 0 /
+
+_0.0.t6-6 add-file true false /adminer.php
+
+
+268 393
